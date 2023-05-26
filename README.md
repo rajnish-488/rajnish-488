@@ -1,7 +1,7 @@
 <h1 align="center">Namaste 👋, I'm Rajnish Singh</h1>
 <h3 align="center">I am a Web Developer and Machine Learning Enthusiast.</h3>
 
-- 🔭 I’m currently working on **BarsSpace**
+- 🔭 I’m currently working on **Bayesian Belief Network Network Modelization using C++**
 
 - 🌱 I’m currently learning **Deep Learning and Web Development**
 
